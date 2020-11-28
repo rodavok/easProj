@@ -1,0 +1,57 @@
+affine==2.3.0
+arrow==0.17.0
+attrs==20.3.0
+backcall==0.2.0
+Cartopy @ file:///home/conda/feedstock_root/build_artifacts/cartopy_1604218103017/work
+certifi==2020.11.8
+chardet==3.0.4
+click==7.1.2
+click-plugins==1.1.1
+cligj==0.7.1
+contextily==1.0.1
+cycler==0.10.0
+decorator==4.4.2
+descartes==1.1.0
+Fiona==1.8.18
+geographiclib==1.50
+geopandas==0.8.1
+geoplot==0.4.1
+geopy==2.0.0
+idna==2.10
+ipython==7.19.0
+ipython-genutils==0.2.0
+jedi==0.17.2
+joblib==0.17.0
+kiwisolver==1.3.1
+mapclassify==2.3.0
+matplotlib==3.3.3
+mercantile==1.1.6
+munch==2.5.0
+networkx==2.5
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1604945996409/work
+pandas==1.1.4
+parso==0.7.1
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==8.0.1
+proj==0.2.0
+prompt-toolkit==3.0.8
+ptyprocess==0.6.0
+Pygments==2.7.2
+pyparsing==2.4.7
+pyproj==3.0.0.post1
+pyshp @ file:///home/conda/feedstock_root/build_artifacts/pyshp_1599782465740/work
+python-dateutil==2.8.1
+pytz==2020.4
+rasterio==1.1.8
+requests==2.25.0
+scikit-learn==0.23.2
+scipy==1.5.4
+seaborn==0.11.0
+Shapely @ file:///home/conda/feedstock_root/build_artifacts/shapely_1602547946837/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+snuggs==1.4.7
+threadpoolctl==2.1.0
+traitlets==5.0.5
+urllib3==1.26.2
+wcwidth==0.2.5
