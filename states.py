@@ -36,9 +36,4 @@ ax = plt.gca()
 ax.axes.xaxis.set_visible(False)
 ax.axes.yaxis.set_visible(False)
 
-
-
-
 plt.show()
-
-

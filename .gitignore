@@ -1,1 +1,5 @@
 easProj.sublime*
+data
+__pycache__
+.ipynb_checkpoints
+easProj.db
