@@ -85,6 +85,7 @@ Send2Trash==1.5.0
 Shapely @ file:///home/conda/feedstock_root/build_artifacts/shapely_1602547946837/work
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
 snuggs==1.4.7
+style==1.1.0
 terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
@@ -92,6 +93,7 @@ tornado==6.1
 tqdm==4.54.0
 traitlets==5.0.5
 twython==3.8.2
+update==0.0.1
 urllib3==1.26.2
 wcwidth==0.2.5
 webencodings==0.5.1
